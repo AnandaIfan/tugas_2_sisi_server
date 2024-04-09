@@ -1,1 +1,0 @@
-setalah extract,folder "tugas_2_sisi_server-main" direname menjadi "Tugas 2"
